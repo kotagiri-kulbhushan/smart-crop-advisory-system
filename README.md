@@ -53,7 +53,7 @@ All recommendations are grounded in official IMD bulletin content to ensure reli
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-crop-advisory-system.git
+git clone https://github.com/kotagiri-kulbhushan/smart-crop-advisory-system.git
 cd smart-crop-advisory-system
 ```
 
