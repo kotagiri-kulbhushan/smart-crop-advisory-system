@@ -1,9 +1,0 @@
-requests
-pandas
-numpy
-langchain
-langchain-huggingface
-faiss-cpu
-sentence-transformers
-PyPDF2
-python-dotenv
